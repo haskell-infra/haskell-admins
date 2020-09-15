@@ -1,4 +1,4 @@
-# haskell-admins
+# Haskell Infrastructure Admins
 
 The infrastructure team is ultimately responsible for maintaining Haskell.org services. It is not required you be a member of any existing group (for example, the Haskell.org committee) to join. The infrastructure team deals solely with technical aspects of Haskell.org infrastructure, including sensitive matters like domain management, backups, administrative email, security response, service allocation, and domain or URL routing.
 
@@ -37,8 +37,3 @@ archives.haskell.org - archives of decommissioned sites and services related to 
 ghc.haskell.org & git.haskell.org - The GHC git repositories and Trac system.
 community.haskell.org & projects.haskell.org - Our legacy community infrastructure
 status.haskell.org - A service providing status updates on haskell.org infrastructure issues (provided by status.io).
-More information
-For more information, be sure to check out the document hierarchy below.
-
-If you want to see what's been going on recently, check out the Server Admin Log.
-
