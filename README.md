@@ -15,7 +15,7 @@ The current core team is:
 *  Gershom Bazerman (co-lead) (@gershomb)
 *  Davean Scies (co-lead) (@davean)
 *  Herbert Valerio Riedel (@hvr)
-*  Ricky Elrod (@relrod)
+*  Rick Elrod (@relrod)
 
 You can contact the current team at any time with an email to admin@haskell.org, or hit them up on IRC (#haskell-infrastructure on freenode).
 
