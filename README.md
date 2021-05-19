@@ -38,7 +38,7 @@ The current core team is:
 *  Herbert Valerio Riedel (@hvr)
 *  Rick Elrod (@relrod)
 
-You can contact the current team at any time with an email to admin@haskell.org, or hit them up on IRC (#haskell-infrastructure on freenode).
+You can contact the current team at any time with an email to admin@haskell.org, or hit them up on IRC (#haskell-infrastructure on https://libera.chat/).
 
 ### Infrastructure providers
 Haskell.org uses many service providers for its infrastructure.
