@@ -46,6 +46,6 @@ Haskell.org uses many service providers for its infrastructure.
 * [Packet.com](https://www.packet.com/) provides compute, storage, and networking resources, powering almost all of Haskell.org in several regions around the world. 
 * [Fastly](https://www.fastly.com/) provides low latency access for all of Haskell.org's downloads and highest traffic services, including the primary Hackage server, and Haskell Platform/GHC downloads.
 * [CloudFlare](https://www.cloudflare.com/) provides DNS management, Anti-DDoS, and high-grade frontend SSL and caching for most of Haskell.org
-Status.io powers https://status.haskell.org, and lets us easily tell you when we broke something.
+* Status.io powers https://status.haskell.org, and lets us easily tell you when we broke something.
 * [DreamHost](https://www.dreamhost.com/) supports Haskell.org by providing free and unlimited object storage and bandwidth via DreamObjects, which we use to stash logs, perform backups, and generally host all kinds of long-term content that we might need.
 
