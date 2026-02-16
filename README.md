@@ -14,7 +14,7 @@ Here are some of the services the infra team maintains.
 * planet.haskell.org - Our Planet Venus instance, which powers the Haskell.org community RSS feeds.
 * downloads.haskell.org - A downloads server hosting tons of static content, proxied by Fastly.
 * archives.haskell.org - archives of decommissioned sites and services related to the open-source Haskell community.
-* gitlab.haskell.org - The GHC git repositories and Trac system.
+* gitlab.haskell.org - The GHC git repositories and issue tracking system.
 * status.haskell.org - A service providing status updates on haskell.org infrastructure issues (provided by status.io).
 
 ### How the Haskell Admins make decisions
