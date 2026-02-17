@@ -1,6 +1,6 @@
 # Haskell Infra Core Servers List
 
-## www-combo-origin.haskell.org (packet)
+## www-combo-origin.haskell.org
 
 Almost all content is static except for the wiki.
 
@@ -27,7 +27,7 @@ Hosts the main haskell.org website and the following subsites
 
 Also hosts a number of subdomains such as: archives.haskell.org, hoogle.haskell.org, downloads.haskell.org, wiki.haskell.org, summer.haskell.org, pvp.haskell.org
 
-## misc-services-origin.haskell.org (packet)
+## misc-services-origin.haskell.org
 
 Hosts nonstatic content and services
 
@@ -35,11 +35,11 @@ Hosts nonstatic content and services
 * postfix (half migrated)
 * hoogle service
 
-## hackage-origin.haskell.org (packet)
+## hackage-origin.haskell.org
 
 Hosts hackage
 
-## docbuilder.hackage.haskell.org (packet)
+## docbuilder.hackage.haskell.org
 
 Hosts the docbuilder (maintained by gbaz centrally)
 
@@ -47,6 +47,6 @@ Hosts the docbuilder (maintained by gbaz centrally)
 
 Hosts the build matrix (maintained by hvr)
 
-## Various ghc ci boxes (packet)
+## Various ghc ci boxes
 
 ghc-arm-2, ghc-ci-1, ghc-ci-m1, etc. (in flux)

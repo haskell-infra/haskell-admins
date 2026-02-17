@@ -43,7 +43,6 @@ You can contact the current team at any time with an email to admin@haskell.org,
 ### Infrastructure providers
 Haskell.org uses many service providers for its infrastructure.
 
-* [Packet.com](https://www.packet.com/) provides compute, storage, and networking resources, powering almost all of Haskell.org in several regions around the world. 
 * [Fastly](https://www.fastly.com/) provides low latency access for all of Haskell.org's downloads and highest traffic services, including the primary Hackage server, and Haskell Platform/GHC downloads.
 * [CloudFlare](https://www.cloudflare.com/) provides DNS management, Anti-DDoS, and high-grade frontend SSL and caching for most of Haskell.org
 * Status.io powers https://status.haskell.org, and lets us easily tell you when we broke something.
